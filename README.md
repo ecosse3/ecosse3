@@ -1,7 +1,7 @@
 <!--
 **ecosse3/ecosse3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center"><img src="kvsky.png" /></p>
+<p align="center"><img src="https://github.com/ecosse3/ecosse3/kvsky.png" /></p>
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
 <h3 align="center">A passionate Frontend Developer from Poland 🇵🇱</h3>
 
