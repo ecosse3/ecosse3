@@ -8,9 +8,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ecosse3" alt="ecosse3" /> </p>
 
 - 🔭 I’m currently working on [**i3 & neovim dotfiles**](https://github.com/ecosse3/dotfiles)
-- 🌱 I’m currently learning **Gatsby**
-- 💬 Ask me about **React.js**
-- 📫 How to reach me: **luk.kurpiewski@gmail.com**
+- 🌱 I’m currently learning **Gatsby**, **GraphQL** and **Design**
+- 💬 Ask me about **React.js**, **Vim** and **Linux**
+- 📫 Reach me at **luk.kurpiewski@gmail.com**
 
 &nbsp;
 
