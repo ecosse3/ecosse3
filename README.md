@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ecosse3" alt="ecosse3" /> </p>
 
 - 🔭 I’m currently working on [**i3 & neovim dotfiles**](https://github.com/ecosse3/dotfiles)
-- 🌱 I’m currently learning **Gatsby**, **GraphQL** and **Design**
+- 🌱 I’m currently learning **Gatsby**, **GraphQL**, **Recoil.js** and **Design in Figma**
 - 💬 Ask me about **React.js**, **Vim** and **Linux**
 - 📫 Reach me at **luk.kurpiewski@gmail.com**
 
