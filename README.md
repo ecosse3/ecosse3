@@ -20,7 +20,7 @@
 &nbsp;
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-ecosse.vercel.app/api/spotify-playing" alt="Ecosse Spotify Playing" width="350" />](https://open.spotify.com/user/1185711933)
+[<img src="https://spotify-now-playing-ecosse.vercel.app/api/spotify" alt="Ecosse Spotify Playing" width="350" />](https://open.spotify.com/user/1185711933)
 
 &nbsp;
 ### Languages and Tools:
