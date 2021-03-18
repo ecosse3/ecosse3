@@ -1,12 +1,12 @@
 <!--
 **ecosse3/ecosse3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center"><img src="https://github.com/ecosse3/ecosse3/blob/master/kvsky.png" /></p>
+<p align="center"><img src="kvskyblue.png" /></p>
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
 <h3 align="center">A passionate Frontend Developer from Poland 🇵🇱</h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/lukasz-kurpiewski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lukasz-kurpiewski" height="30" width="30" /></a> 
+<a href="https://linkedin.com/in/lukasz-kurpiewski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lukasz-kurpiewski" height="30" width="30" /></a>
 <a href="https://instagram.com/kvsky_travel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kvsky_travel" height="30" width="30" /></a>
 </p>
 
