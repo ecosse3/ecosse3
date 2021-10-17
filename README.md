@@ -14,7 +14,7 @@
 
 - 🔭 &nbsp; I’m currently working on [**neovim dotfiles**](https://github.com/ecosse3/nvim)
 - 🌱 &nbsp; I’m currently learning **Next.js** and **Design in Figma**
-- 💬 &nbsp; Ask me about **React.js**, **Vim** and **Linux**
+- 💬 &nbsp; Ask me about **React.js**, **(Neo)Vim** and **Linux**
 - 📫 &nbsp; Reach me at **luk.kurpiewski@gmail.com**
 
 &nbsp;
