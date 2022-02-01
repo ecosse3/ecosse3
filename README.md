@@ -12,8 +12,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ecosse3&style=flat-square&color=2591F6" alt="ecosse3" /> </p>
 
-- 🔭 &nbsp; I’m currently working on [**neovim dotfiles**](https://github.com/ecosse3/nvim)
-- 🌱 &nbsp; I’m currently learning **Next.js** and **Design in Figma**
+- 🔭 &nbsp; I’m currently working on [**neovim dotfiles**](https://github.com/ecosse3/nvim) and couple of not open-source business projects
+- 🌱 &nbsp; I’m currently learning **Design in Figma**, **Three.js&& and **Go Basics**
 - 💬 &nbsp; Ask me about **React.js**, **(Neo)Vim** and **Linux**
 - 📫 &nbsp; Reach me at **luk.kurpiewski@gmail.com**
 
